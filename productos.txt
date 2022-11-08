@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Grand Theft Auto: San Andreas",
+    "price": 9.99,
+    "thumbnail": "https://static.wikia.nocookie.net/esgta/images/c/c2/Grand_Theft_Auto_San_Andreas.JPG/revision/latest?cb=20161127211015",
+    "id": 2
+  },
+  {
+    "title": "Persona 5 Royal",
+    "price": 29.99,
+    "thumbnail": "https://www.portalgames.com.ar/wp-content/uploads/2020/04/persona-5-royal.jpg",
+    "id": 3
+  },
+  {
+    "title": "Persona 4 Golden",
+    "price": 5,
+    "thumbnail": "https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/2427400-2227298-box_persona4g.png",
+    "id": 1
+  }
+]
